@@ -1,2 +1,3 @@
 # lottery-app
-spring boot app for lottery backend
+
+Lottery application with spring boot
